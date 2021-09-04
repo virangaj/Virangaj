@@ -11,6 +11,9 @@
 <a href="https://www.instagram.com/pasiya_k9/" target="_blank">
   <img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramk&logoColor=white" height=25>
 </a> 
+<a href="https://www.instagram.com/pasiya_k9/" target="_blank">
+  <img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramk&logoColor=white" height=25>
+</a> 
 <a href="https://github.com/Viranga-pasi" target="_blank">
   <img align="left" src="https://komarev.com/ghpvc/?username=Viranga-pasi" alt="page views" />
 </a>
@@ -23,7 +26,7 @@
 
 #### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
  
-<img align="right" alt="GIF" src="https://github.com/lakshitha1629/lakshitha1629/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:virangapasindu4@gmail.com) 😊
 - 💬 Ask me about anything, I am happy to help;
