@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me:
 
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
+#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software & Web Developer and also graphics designer and video editor and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
  
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
