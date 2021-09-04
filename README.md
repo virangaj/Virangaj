@@ -11,9 +11,7 @@
 <a href="https://www.instagram.com/pasiya_k9/" target="_blank">
   <img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramk&logoColor=white" height=25>
 </a> 
-<a href="https://www.instagram.com/pasiya_k9/" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramk&logoColor=white" height=25>
-</a> 
+
 <a href="https://github.com/Viranga-pasi" target="_blank">
   <img align="left" src="https://komarev.com/ghpvc/?username=Viranga-pasi" alt="page views" />
 </a>
