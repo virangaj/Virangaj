@@ -12,11 +12,11 @@
   <img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramk&logoColor=white" height=25>
 </a> 
 
-<a href="https://github.com/Viranga-pasi" target="_blank">
+<a href="https://github.com/Virangaj" target="_blank">
   <img align="left" src="https://komarev.com/ghpvc/?username=Viranga-pasi" alt="page views" />
 </a>
 <a href="https://github.com/Viranga-pasi?tab=followers" target="_blank">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Viranga-pasi?color=green&logo=github">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Virangaj?color=green&logo=github">
 </a>
 <hr>
 
@@ -75,9 +75,9 @@
 ### 📈 My Github Stats:
 
 <p  align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Viranga-pasi&show_icons=true&theme=gotham" alt="Viranga-pasi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Virangaj&show_icons=true&theme=gotham" alt="Virangaj" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viranga-pasi&layout=compact&theme=gotham" alt="Viranga-pasi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virangaj&layout=compact&theme=gotham" alt="Virangaj" />
    
 <p>
 <hr>
