@@ -72,16 +72,16 @@
 </p>
 <hr>
 
-<!-- ### 📈 My Github Stats:
+### 📈 My Github Stats:
 
 <p  align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Virangaj&show_icons=true&theme=gotham" alt="Virangaj" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Virangaj&show_icons=true&theme=transparent" alt="Virangaj" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virangaj&layout=compact&theme=gotham" alt="Virangaj" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virangaj&layout=compact&theme=transparent" alt="Virangaj" />
    
 <p>
 <hr>
- -->
+
 ### Gaming:
 <div display="flex">
   <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
