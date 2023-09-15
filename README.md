@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me:
 
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software & Web Developer and also graphics designer and video editor and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
+#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software & Web Developer and also graphics designer and video editor and bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.
  
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
@@ -73,11 +73,11 @@
 <hr>
 
 ### 📈 My Github Stats:
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=virangaj&theme=blue-green)](https://git.io/streak-stats)
 <p  align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Virangaj&show_icons=true&theme=transparent" alt="Virangaj" />
+  <img src="https://github-readme-stats.vercel.app/api?username=virangaj&show_icons=true&theme=transparent" alt="Virangaj" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virangaj&layout=compact&theme=transparent" alt="Virangaj" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virangaj&layout=compact&theme=transparent" alt="Virangaj" />
    
 <p>
 <hr>
