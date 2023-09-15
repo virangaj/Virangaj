@@ -73,9 +73,11 @@
 <hr>
 
 ### 📈 My Github Stats:
-
+<div align="center">
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=virangaj&theme=blue-green)](https://git.io/streak-stats)
+</div>
 <p  align="center"> 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=virangaj&theme=blue-green)](https://git.io/streak-stats)
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=virangaj&show_icons=true&theme=transparent" alt="Virangaj" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virangaj&layout=compact&theme=transparent" alt="Virangaj" />
